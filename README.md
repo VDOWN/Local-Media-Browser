@@ -6,7 +6,7 @@ Browse images, videos and audio in a local folder — no upload, no backend, no 
 一个基于浏览器 File System Access API 的**单文件**本地媒体浏览器。
 无需后端、无需上传，直接在浏览器中浏览本地文件夹里的图片、视频和音频。
 
-![Main UI](screenshots/main.png)
+可直接访问：  https://vdown.cn/lmb 即可体验。
 
 ---
 
