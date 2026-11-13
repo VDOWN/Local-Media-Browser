@@ -3,8 +3,9 @@
 A single-file, serverless local media browser powered by the File System Access API.
 Browse images, videos and audio in a local folder — no upload, no backend, no third-party services.
 
-一个基于浏览器 File System Access API 的**单文件**本地媒体浏览器。
+一个基于浏览器 File System Access API 的**HTML**代码方式的本地媒体浏览器。
 无需后端、无需上传，直接在浏览器中浏览本地文件夹里的图片、视频和音频。
+已实现简单且快速浏览、放大、缩小、简单删除媒体（包括图片、音频、视频类型）文件等功能。
 
 可直接访问：  https://vdown.cn/lmb 即可体验。
 
